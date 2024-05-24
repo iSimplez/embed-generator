@@ -57,4 +57,4 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a [Licença MIT](https://github.com/iSimplez/embed-genarator/blob/main/LICENSE).
+Este projeto está licenciado sob a [Licença MIT](https://github.com/iSimplez/embed-generator/blob/main/LICENSE).
