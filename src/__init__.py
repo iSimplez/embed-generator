@@ -7,7 +7,7 @@ from discord.ext import commands
 from controllers.deletecache import delete_pycache
 
 load_dotenv(find_dotenv())
-ID=os.getenv('APP_ID')    
+ID=os.getenv('APP_ID')
 
 class MyBot(commands.Bot):
     def __init__(self):
